@@ -6,3 +6,6 @@ Code for the population genetic analysis of Hedeoma todsenii.
 
 ## hed-gccs.R
 In progress work on genetic case control study to analyze genotypic differences associated with survival.
+
+## hed-map.R
+Code for map of general hedeoma range.
